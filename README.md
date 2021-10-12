@@ -14,8 +14,8 @@
 
 ### Install
 ```
-    npm run install
-    or yarn
+  npm run install
+  or yarn
 ```
 ### Run
 ```
